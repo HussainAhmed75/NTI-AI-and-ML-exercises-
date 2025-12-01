@@ -3,7 +3,9 @@
 > A professional repository showcasing my hands-on practice and tasks from the NTI Artificial Intelligence & Machine Learning program. This repo reflects my journey in Data Analysis and Machine Learning through real-world exercises and structured practice.
 
 ---
-
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+</h3>
 ## 👤 Author
 
 **Hussein Ahmed**
